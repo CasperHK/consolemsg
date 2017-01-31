@@ -7,6 +7,13 @@ A console package for go lang
 
 <br/>
 
+## Installation
+```bash
+go get github.com/CasperHK/consolemsg
+```
+
+<br/>
+
 ## Basic Usage
 First of all, we have to import the package.
 ```go
