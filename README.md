@@ -26,3 +26,7 @@ The output in the terminal in like the following.
 [System]: 11
 [CusMsg]: 3
 ```
+
+## Features
+* Better manage your console print out.
+* Highligh the type of print out with different colors by https://github.com/fatih/color.
