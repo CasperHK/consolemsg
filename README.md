@@ -3,6 +3,10 @@ A console package for go lang
 
 <br/>
 
+## Screenshot
+
+<br/>
+
 ## Basic Usage
 First of all, we have to import the package.
 ```go
